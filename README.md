@@ -1,4 +1,4 @@
-[Sarthak Gupta - GitHub Profile README (Clean).md](https://github.com/user-attachments/files/30383286/Sarthak.Gupta.-.GitHub.Profile.README.Clean.md)
+[Sarthak Gupta - GitHub Profile README (Final Clean).md](https://github.com/user-attachments/files/30383340/Sarthak.Gupta.-.GitHub.Profile.README.Final.Clean.md)
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -23,7 +23,7 @@ Through my academic projects and personal development, I've gained hands-on expe
 - Building **native Android apps** using **Kotlin** and modern Android development tools
 - Exploring **Jetpack Compose** for modern UI development
 - Implementing **Room Database** for local data persistence
-- Integrating **Retrofit** for seamless API communication
+- Integrating APIs for seamless data communication
 - Mastering **MVVM Architecture** for scalable applications
 
 ### 🧑‍🤝‍🧑 Looking to Collaborate On
@@ -31,25 +31,25 @@ Through my academic projects and personal development, I've gained hands-on expe
 - ✅ **Open-Source Contributions** - Community-driven development
 - ✅ **Innovative Mobile Ideas** - Apps that solve real-life problems
 - ✅ **Cross-Platform Solutions** - Android + Web integration
-- ✅ **Backend Integration** - Firebase, REST APIs, GraphQL
+- ✅ **Backend Integration** - Firebase, REST APIs
 
 ### 🤝 Looking for Help With
 - 📈 **App Performance Optimization** - Memory management, battery efficiency
 - 🏗️ **Clean Architecture** - MVVM, SOLID principles
-- 🔧 **Advanced Android Concepts** - Coroutines, Flow, LiveData
+- 🔧 **Advanced Android Concepts** - LiveData, Navigation
 - 🌐 **Backend Integration** - API design, database optimization
 - 🧪 **Testing & Quality Assurance** - Unit tests, integration tests
 
 ### 🌱 Currently Learning
 - 🎓 **Kotlin** - Advanced language features
-- 📱 **Jetpack Libraries** - Compose, Navigation, WorkManager
+- 📱 **Jetpack Libraries** - Compose, Navigation, Room
 - 🔐 **Security Best Practices** - Encryption, secure storage
 - ☁️ **Cloud Technologies** - Firebase, Google Cloud
 - 🌐 **Web Technologies** - React, TypeScript, modern frameworks
 
 ### 💬 Ask Me About
 - 📱 **Android Development Basics** - Activities, Fragments, Services
-- 🎯 **Kotlin Programming** - Coroutines, Extensions, DSLs
+- 🎯 **Kotlin Programming** - Variables, Functions, Classes
 - 🚀 **Getting Started with Mobile Development** - Best practices, tools
 - 🔥 **Firebase Integration** - Authentication, Database, Storage
 - 🎨 **UI/UX Design** - Material Design, Jetpack Compose
@@ -95,7 +95,7 @@ Through my academic projects and personal development, I've gained hands-on expe
 ### 🌊 Waves of Food
 > A native Android food delivery app with seamless authentication and order management
 
-- **Tech:** Kotlin, Firebase, Material Design, Retrofit
+- **Tech:** Kotlin, Firebase, Material Design
 - **Features:** Food browsing, smart cart, checkout flow, user profiles
 - **Status:** Production-ready
 - 🔗 [View Repository](https://github.com/SARTHAKHAPPY/Waves_of_Food)
@@ -103,7 +103,7 @@ Through my academic projects and personal development, I've gained hands-on expe
 ### 🌤️ Weather Dashboard
 > Real-time weather tracking web application with modern UI
 
-- **Tech:** React, TypeScript, TanStack Query, TailwindCSS
+- **Tech:** React, TypeScript, TailwindCSS
 - **Features:** Real-time weather data, location-based forecasts, responsive design
 - **Status:** Live
 - 🔗 [View Repository](https://github.com/SARTHAKHAPPY/tanstack-shadcn-weather-app)
@@ -114,13 +114,13 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 ### Core Competencies
 - 📱 **Native Android Development** - Activities, Fragments, Services, Broadcast Receivers
-- 🎯 **Kotlin Programming** - Coroutines, Extensions, Scope Functions, DSLs
-- 🔥 **Firebase Ecosystem** - Auth, Realtime DB, Firestore, Cloud Storage, Functions
+- 🎯 **Kotlin Programming** - Variables, Functions, Classes, Collections
+- 🔥 **Firebase Ecosystem** - Auth, Realtime DB, Firestore, Cloud Storage
 - 🏗️ **Architecture Patterns** - MVVM, Clean Architecture, Repository Pattern
 - 🧪 **Testing & QA** - Unit Testing, Integration Testing, UI Testing
 - 🎨 **UI/UX Design** - Material Design, Jetpack Compose, XML Layouts
-- 🌐 **API Integration** - REST APIs, Retrofit, OkHttp, GraphQL
-- 💾 **Local Storage** - Room Database, SharedPreferences, DataStore
+- 🌐 **API Integration** - REST APIs, data communication
+- 💾 **Local Storage** - Room Database, SharedPreferences
 
 ### Soft Skills
 - 🤝 **Team Collaboration** - Git workflow, code reviews, agile methodology
