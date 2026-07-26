@@ -1,4 +1,4 @@
-[Uploading Sarthak Gupta - GitHub Profile README (Final v3).md…]()
+[Sarthak Gupta - GitHub Profile README (Final v4).md](https://github.com/user-attachments/files/30383254/Sarthak.Gupta.-.GitHub.Profile.README.Final.v4.md)
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Android Developer** based in **Prayagraj, India**, currently pursuing my **Master's degree in Computer Applications (MCA)**. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
+I'm a passionate **Android Developer** based in **Prayagraj, India**, with a **Master's degree in Computer Applications (MCA)**. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
 
 Through my academic projects and personal development, I've gained hands-on experience in mobile and web development. I'm committed to creating innovative solutions that make a real impact. I love collaborating with teams, contributing to open-source projects, and continuously learning new technologies.
 
@@ -140,7 +140,7 @@ Through my academic projects and personal development, I've gained hands-on expe
 ## 📈 Education & Background
 
 ### 🎓 Education
-- **Master of Computer Applications (MCA)** - 2024–2026 (Pursuing)
+- **Master of Computer Applications (MCA)** - 2024–2026 ✅ Completed
 - **Bachelor of Computer Applications (BCA)** - Completed
 - **Institution:** Ewing Christian College, Prayagraj
 
@@ -181,7 +181,7 @@ I believe in:
 
 ---
 
-## 🎯 Goals for 2025-2026
+## 🎯 Goals for 2026
 
 - [ ] 🚀 Launch 3+ production-ready Android apps
 - [ ] 📚 Contribute to 5+ open-source projects
