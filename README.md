@@ -1,7 +1,7 @@
-[Sarthak Gupta - GitHub Profile README.md](https://github.com/user-attachments/files/30383161/Sarthak.Gupta.-.GitHub.Profile.README.md)
+[Sarthak Gupta - GitHub Profile README (Fixed).md](https://github.com/user-attachments/files/30383220/Sarthak.Gupta.-.GitHub.Profile.README.Fixed.md)
 # 👋 Hi there! I'm Sarthak Gupta
 
-> **Senior Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
+> **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Specialist;Firebase+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
@@ -11,9 +11,9 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Android Developer** based in **Prayagraj, India**, with a Master's degree in Computer Applications. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
+I'm a passionate **Android Developer** based in **Prayagraj, India**, currently pursuing my **Master's degree in Computer Applications (MCA)**. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
 
-With **2+ years of hands-on experience** in mobile and web development, I'm committed to creating innovative solutions that make a real impact. I love collaborating with teams, contributing to open-source projects, and continuously learning new technologies.
+Through my academic projects and personal development, I've gained hands-on experience in mobile and web development. I'm committed to creating innovative solutions that make a real impact. I love collaborating with teams, contributing to open-source projects, and continuously learning new technologies.
 
 ---
 
@@ -90,19 +90,6 @@ With **2+ years of hands-on experience** in mobile and web development, I'm comm
 
 ---
 
-## 📊 GitHub Statistics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SARTHAKHAPPY&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKHAPPY&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=SARTHAKHAPPY&theme=dark&hide_border=true" alt="GitHub Streak"/>
-</div>
-
----
-
 ## 🎯 Featured Projects
 
 ### 📚 eDu Solution Assistant
@@ -152,16 +139,16 @@ With **2+ years of hands-on experience** in mobile and web development, I'm comm
 
 ---
 
-## 📈 Experience
+## 📈 Education & Background
 
 ### 🎓 Education
-- **Master of Computer Applications (MCA)** - 2024–2026
+- **Master of Computer Applications (MCA)** - 2024–2026 (Pursuing)
 - **Bachelor of Computer Applications (BCA)** - Completed
 - **Institution:** Ewing Christian College, Prayagraj
 
-### 💼 Professional Experience
-- **2+ Years** of hands-on mobile and web development
-- **Android Development** - Native app development with Kotlin
+### 💼 Development Experience
+- **Academic Projects** - Multiple Android and web applications
+- **Android Development** - Native app development with Kotlin and Firebase
 - **Web Development** - React, TypeScript, modern web technologies
 - **Backend Integration** - Firebase, REST APIs, cloud services
 - **Open Source** - Contributing to community projects
@@ -175,10 +162,8 @@ With **2+ years of hands-on experience** in mobile and web development, I'm comm
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://sarthak-gupta-portfolio.netlify.app)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/plez_dont_tell_my_therapist)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sarthak.gupta1111)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aRbKqkvf)
 
 </div>
 
@@ -210,22 +195,11 @@ I believe in:
 
 ---
 
-## 📚 Latest Blog Posts & Resources
-
-- 📱 Android Development Tips & Tricks
-- 🔥 Firebase Best Practices
-- 🎯 MVVM Architecture Guide
-- 🚀 Getting Started with Kotlin Coroutines
-- 🎨 Material Design in Android
-
----
-
-## 🤝 How to Reach Me
+## 📞 How to Reach Me
 
 - 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
 - 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
 - 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
-- 🌐 **Portfolio:** [sarthak-gupta-portfolio.netlify.app](https://sarthak-gupta-portfolio.netlify.app)
 - 📱 **Instagram:** [@plez_dont_tell_my_therapist](https://www.instagram.com/plez_dont_tell_my_therapist)
 
 ---
@@ -244,8 +218,6 @@ If you find my projects helpful or my content valuable, please consider:
 <div align="center">
 
 ### Let's Build Something Amazing Together! 🚀
-
-![Visitor Badge](https://visitcount.itsvg.in/api?id=SARTHAKHAPPY&icon=0&color=7F52FF)
 
 Made with ❤️ by [Sarthak Gupta](https://github.com/SARTHAKHAPPY)
 
