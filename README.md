@@ -1,3 +1,4 @@
+[Uploading Sarthak Gupta - GitHub Profile README (Final).md…]()
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -147,18 +148,13 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 ---
 
-## 🌐 Connect With Me
+## 📞 How to Reach Me
 
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://sarthakhappy.netlify.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/plez_dont_tell_my_therapist)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sarthak.gupta1111)
-
-</div>
+- 🌐 **Portfolio:** [sarthakhappy.netlify.app](https://sarthakhappy.netlify.app/)
+- 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
+- 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
+- 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
+- 📱 **Instagram:** [@plez_dont_tell_my_therapist](https://www.instagram.com/plez_dont_tell_my_therapist)
 
 ---
 
@@ -185,16 +181,6 @@ I believe in:
 - [ ] 🌟 Build a community around Android development
 - [ ] 💼 Collaborate with industry experts
 - [ ] 🎨 Improve UI/UX design skills
-
----
-
-## 📞 How to Reach Me
-
-- 🌐 **Portfolio:** [sarthakhappy.netlify.app](https://sarthakhappy.netlify.app/)
-- 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
-- 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
-- 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
-- 📱 **Instagram:** [@plez_dont_tell_my_therapist](https://www.instagram.com/plez_dont_tell_my_therapist)
 
 ---
 
