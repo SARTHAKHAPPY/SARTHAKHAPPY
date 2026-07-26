@@ -1,4 +1,5 @@
-[Sarthak Gupta - GitHub Profile README (Complete).md](https://github.com/user-attachments/files/30383520/Sarthak.Gupta.-.GitHub.Profile.README.Complete.md)# 👋 Hi there! I'm Sarthak Gupta
+[Sarthak Gupta - GitHub Profile README (Complete).md](https://github.com/user-attachments/files/30383524/Sarthak.Gupta.-.GitHub.Profile.README.Complete.md)
+# 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
 
