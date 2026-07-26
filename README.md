@@ -1,4 +1,4 @@
-[Sarthak Gupta - GitHub Profile README (Complete).md](https://github.com/user-attachments/files/30383524/Sarthak.Gupta.-.GitHub.Profile.README.Complete.md)
+[Uploading Sarthak Gupta - GitHub Profile README (Final Clean) (2).md…]()
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -79,68 +79,34 @@ Through my academic projects and personal development, I've gained hands-on expe
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-
-### 📚 Additional Technologies
-- **API Clients:** Retrofit (REST API Client)
-- **Build Tools:** Gradle (Kotlin DSL)
-- **UI Libraries:** TanStack Query, shadcn/ui, TailwindCSS, Recharts
-- **Database:** Firebase Realtime Database, Firebase Storage
-
----
-
-## 💼 Experience
-
-### 🏢 IBM Virtual Internship
-**Sept 2025 – Oct 2025**
-
-> Project-Based Experiential Learning (PBEL) in Web, Mobile Development & Marketing
-
-- Completed a structured, mentor-guided program covering web and mobile development fundamentals
-- Applied concepts through hands-on project assignments, bridging classroom learning with real-world development practices
-- Gained practical experience in modern development workflows and industry best practices
 
 ---
 
 ## 🎯 Featured Projects
 
-### 🌊 Waves of Food — Food Delivery Platform
-**May 2026 – Jun 2026**
-
-> A two-app Android ecosystem (Customer + Admin) for food delivery with Firebase backend
-
-- **Tech:** Kotlin, Android SDK, Firebase (Auth, Realtime Database, Storage), Gradle
-- **Features:** 
-  - Customer app: Home feed, search, cart, checkout
-  - Admin app: Menu management, order tracking, account management
-  - Secure Firebase Authentication for login/sign-up
-- **Status:** Production-ready
-- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/Waves_of_Food)
-
-### 🌤️ Weather Dashboard
-**Sept 2025 – Oct 2025**
-
-> Real-time weather tracking web application with modern UI
-
-- **Tech:** React, TypeScript, TanStack Query, shadcn/ui, TailwindCSS, Recharts
-- **Features:** 
-  - Real-time weather data with auto-refresh on focus
-  - City search and favorites system
-  - Light/dark mode toggle
-  - Interactive temperature charts
-- **Status:** Live
-- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/tanstack-shadcn-weather-app)
-- 🌐 [Live Demo](https://tanstack-shadcn.netlify.app/)
-
 ### 📚 eDu Solution Assistant
-**Jan 2023 – May 2023**
-
-> Android-based digital library and book recommendation platform for students
+> A comprehensive Android-based digital library and book recommendation platform for students
 
 - **Tech:** Kotlin, Firebase, Android SDK, Material Design
 - **Features:** Book recommendations, PDF reader, admin dashboard, offline reading
 - **Impact:** Reduces search time from 2-3 hours to < 15 minutes
 - 🔗 [View Repository](https://github.com/SARTHAKHAPPY/eDu-Solution-Assistant)
+
+### 🌊 Waves of Food
+> A native Android food delivery app with seamless authentication and order management
+
+- **Tech:** Kotlin, Firebase, Material Design
+- **Features:** Food browsing, smart cart, checkout flow, user profiles
+- **Status:** Production-ready
+- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/Waves_of_Food)
+
+### 🌤️ Weather Dashboard
+> Real-time weather tracking web application with modern UI
+
+- **Tech:** React, TypeScript, TailwindCSS
+- **Features:** Real-time weather data, location-based forecasts, responsive design
+- **Status:** Live
+- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/tanstack-shadcn-weather-app)
 
 ---
 
@@ -170,15 +136,8 @@ Through my academic projects and personal development, I've gained hands-on expe
 ### 🎓 Education
 - **Master of Computer Applications (MCA)** - 2024–2026
   - **Institution:** United Institute of Management, Prayagraj
-- **Bachelor of Computer Applications (BCA)** - 2020–2023
+- **Bachelor of Computer Applications (BCA)**
   - **Institution:** Ewing Christian College, Prayagraj
-
-### 📜 Certifications & Courses
-- **Android App Development with Kotlin** — GeeksforGeeks (Mar 2023 – May 2023)
-- **Cyber Security & Ethical Hacking** — NIELIT (Dec 2022 – Feb 2023)
-- **Data Science Using Python** — NIELIT (2022–23)
-- **Computer Concepts Course** — NIELIT (2019)
-- **ChatGPT AI Workshop** (2024)
 
 ### 💼 Development Experience
 - **Academic Projects** - Multiple Android and web applications
