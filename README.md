@@ -1,4 +1,4 @@
-[Sarthak Gupta - GitHub Profile README (Fixed).md](https://github.com/user-attachments/files/30383220/Sarthak.Gupta.-.GitHub.Profile.README.Fixed.md)
+[Uploading Sarthak Gupta - GitHub Profile README (Final v3).md…]()
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -45,7 +45,7 @@ Through my academic projects and personal development, I've gained hands-on expe
 - 📱 **Jetpack Libraries** - Compose, Navigation, WorkManager
 - 🔐 **Security Best Practices** - Encryption, secure storage
 - ☁️ **Cloud Technologies** - Firebase, Google Cloud
-- 🤖 **Machine Learning** - TensorFlow Lite for mobile
+- 🌐 **Web Technologies** - React, TypeScript, modern frameworks
 
 ### 💬 Ask Me About
 - 📱 **Android Development Basics** - Activities, Fragments, Services
@@ -82,8 +82,6 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 ### 🎨 Design & Creative
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 🐍 Other Languages
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -159,6 +157,7 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 <div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://sarthakhappy.netlify.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com)
@@ -182,7 +181,7 @@ I believe in:
 
 ---
 
-## 🎯 Goals for 2024-2025
+## 🎯 Goals for 2025-2026
 
 - [ ] 🚀 Launch 3+ production-ready Android apps
 - [ ] 📚 Contribute to 5+ open-source projects
@@ -197,6 +196,7 @@ I believe in:
 
 ## 📞 How to Reach Me
 
+- 🌐 **Portfolio:** [sarthakhappy.netlify.app](https://sarthakhappy.netlify.app/)
 - 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
 - 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
 - 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
