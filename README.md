@@ -1,4 +1,4 @@
-[Uploading Sarthak Gupta - GitHub Profile README (Final Clean) (1).md…]()
+[Sarthak Gupta - GitHub Profile README (Final Clean) (2).md](https://github.com/user-attachments/files/30383468/Sarthak.Gupta.-.GitHub.Profile.README.Final.Clean.2.md)
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -134,9 +134,9 @@ Through my academic projects and personal development, I've gained hands-on expe
 ## 📈 Education & Background
 
 ### 🎓 Education
-- **Master of Computer Applications (MCA)** - 2024–2026 ✅ Completed
+- **Master of Computer Applications (MCA)** - 2024–2026
   - **Institution:** United Institute of Management, Prayagraj
-- **Bachelor of Computer Applications (BCA)** - ✅ Completed
+- **Bachelor of Computer Applications (BCA)**
   - **Institution:** Ewing Christian College, Prayagraj
 
 ### 💼 Development Experience
@@ -207,13 +207,3 @@ If you find my projects helpful or my content valuable, please consider:
 - 💬 Providing feedback and suggestions
 - 🤝 Contributing to my open-source projects
 - 📢 Following me on social media
-
----
-
-<div align="center">
-
-### Let's Build Something Amazing Together! 🚀
-
-Made with ❤️ by [Sarthak Gupta](https://github.com/SARTHAKHAPPY)
-
-</div>
