@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Android Developer** based in **Prayagraj, India**, with a **Master's degree in Computer Applications (MCA)**. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
+I'm a passionate **Android Developer** based in **Prayagraj, India**. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
 
 Through my academic projects and personal development, I've gained hands-on experience in mobile and web development. I'm committed to creating innovative solutions that make a real impact. I love collaborating with teams, contributing to open-source projects, and continuously learning new technologies.
 
