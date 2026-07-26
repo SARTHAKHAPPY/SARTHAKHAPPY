@@ -1,18 +1,252 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Building Android apps using Kotlin and exploring modern Android development tools like Jetpack Compose, Room, and Retrofit.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Android projects, open-source contributions, and innovative mobile app ideas that solve real-life problems.<br><br>🤝 I’m looking for help with<br>Improving app performance, implementing clean architecture (MVVM), and understanding advanced Android development concepts.<br><br>🌱 I’m currently learning<br>Kotlin, Android app development, Jetpack libraries, and backend integration for mobile applications.<br><br>💬 Ask me about<br>Android development basics, Kotlin programming, and how to get started with mobile app development.<br><br>⚡ Fun fact<br>The first app I created was super simple, but it made me realize how exciting it is to bring ideas to life on a phone screen!
+[Sarthak Gupta - GitHub Profile README.md](https://github.com/user-attachments/files/30383161/Sarthak.Gupta.-.GitHub.Profile.README.md)
+# 👋 Hi there! I'm Sarthak Gupta
 
+> **Senior Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/aRbKqkvf) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/sarthak.gupta1111) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/plez_dont_tell_my_therapist?utm_source=qr&igsh=MTU2d2VxOW9vOXYzOQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/sarthak-gupta-0443002aa) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com) 
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SARTHAKHAPPY&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=SARTHAKHAPPY&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKHAPPY&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Specialist;Firebase+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SARTHAKHAPPY&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🚀 About Me
+
+I'm a passionate **Android Developer** based in **Prayagraj, India**, with a Master's degree in Computer Applications. I specialize in building scalable, user-centric mobile applications using **Kotlin**, **Java**, and **Firebase**. I'm obsessed with clean code, intuitive UI/UX, and solving complex technical challenges.
+
+With **2+ years of hands-on experience** in mobile and web development, I'm committed to creating innovative solutions that make a real impact. I love collaborating with teams, contributing to open-source projects, and continuously learning new technologies.
+
+---
+
+## 🎯 What I'm Currently Doing
+
+### 🔭 Working On
+- Building **native Android apps** using **Kotlin** and modern Android development tools
+- Exploring **Jetpack Compose** for modern UI development
+- Implementing **Room Database** for local data persistence
+- Integrating **Retrofit** for seamless API communication
+- Mastering **MVVM Architecture** for scalable applications
+
+### 🧑‍🤝‍🧑 Looking to Collaborate On
+- ✅ **Android Projects** - Native app development
+- ✅ **Open-Source Contributions** - Community-driven development
+- ✅ **Innovative Mobile Ideas** - Apps that solve real-life problems
+- ✅ **Cross-Platform Solutions** - Android + Web integration
+- ✅ **Backend Integration** - Firebase, REST APIs, GraphQL
+
+### 🤝 Looking for Help With
+- 📈 **App Performance Optimization** - Memory management, battery efficiency
+- 🏗️ **Clean Architecture** - MVVM, SOLID principles
+- 🔧 **Advanced Android Concepts** - Coroutines, Flow, LiveData
+- 🌐 **Backend Integration** - API design, database optimization
+- 🧪 **Testing & Quality Assurance** - Unit tests, integration tests
+
+### 🌱 Currently Learning
+- 🎓 **Kotlin** - Advanced language features
+- 📱 **Jetpack Libraries** - Compose, Navigation, WorkManager
+- 🔐 **Security Best Practices** - Encryption, secure storage
+- ☁️ **Cloud Technologies** - Firebase, Google Cloud
+- 🤖 **Machine Learning** - TensorFlow Lite for mobile
+
+### 💬 Ask Me About
+- 📱 **Android Development Basics** - Activities, Fragments, Services
+- 🎯 **Kotlin Programming** - Coroutines, Extensions, DSLs
+- 🚀 **Getting Started with Mobile Development** - Best practices, tools
+- 🔥 **Firebase Integration** - Authentication, Database, Storage
+- 🎨 **UI/UX Design** - Material Design, Jetpack Compose
+- 🏗️ **App Architecture** - MVVM, Clean Architecture, Design Patterns
+
+### ⚡ Fun Fact
+> The first app I created was super simple, but it made me realize how exciting it is to bring ideas to life on a phone screen! 📱✨
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+
+### 🌐 Web Development
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+
+### 🔧 Tools & Platforms
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+### 🎨 Design & Creative
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+
+### 🐍 Other Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+---
+
+## 📊 GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SARTHAKHAPPY&theme=dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKHAPPY&theme=dark&hide_border=true&layout=compact&langs_count=8" alt="Top Languages"/>
+</div>
+
+<div align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=SARTHAKHAPPY&theme=dark&hide_border=true" alt="GitHub Streak"/>
+</div>
+
+---
+
+## 🎯 Featured Projects
+
+### 📚 eDu Solution Assistant
+> A comprehensive Android-based digital library and book recommendation platform for students
+
+- **Tech:** Kotlin, Firebase, Android SDK, Material Design
+- **Features:** Book recommendations, PDF reader, admin dashboard, offline reading
+- **Impact:** Reduces search time from 2-3 hours to < 15 minutes
+- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/eDu-Solution-Assistant)
+
+### 🌊 Waves of Food
+> A native Android food delivery app with seamless authentication and order management
+
+- **Tech:** Kotlin, Firebase, Material Design, Retrofit
+- **Features:** Food browsing, smart cart, checkout flow, user profiles
+- **Status:** Production-ready
+- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/Waves_of_Food)
+
+### 🌤️ Weather Dashboard
+> Real-time weather tracking web application with modern UI
+
+- **Tech:** React, TypeScript, TanStack Query, TailwindCSS
+- **Features:** Real-time weather data, location-based forecasts, responsive design
+- **Status:** Live
+- 🔗 [View Repository](https://github.com/SARTHAKHAPPY/tanstack-shadcn-weather-app)
+
+---
+
+## 🏆 Skills & Expertise
+
+### Core Competencies
+- 📱 **Native Android Development** - Activities, Fragments, Services, Broadcast Receivers
+- 🎯 **Kotlin Programming** - Coroutines, Extensions, Scope Functions, DSLs
+- 🔥 **Firebase Ecosystem** - Auth, Realtime DB, Firestore, Cloud Storage, Functions
+- 🏗️ **Architecture Patterns** - MVVM, Clean Architecture, Repository Pattern
+- 🧪 **Testing & QA** - Unit Testing, Integration Testing, UI Testing
+- 🎨 **UI/UX Design** - Material Design, Jetpack Compose, XML Layouts
+- 🌐 **API Integration** - REST APIs, Retrofit, OkHttp, GraphQL
+- 💾 **Local Storage** - Room Database, SharedPreferences, DataStore
+
+### Soft Skills
+- 🤝 **Team Collaboration** - Git workflow, code reviews, agile methodology
+- 📚 **Problem Solving** - Analytical thinking, debugging, optimization
+- 📖 **Documentation** - Clear code comments, README files, technical blogs
+- 🎓 **Continuous Learning** - Always exploring new technologies and best practices
+- 💡 **Innovation** - Creative solutions to complex problems
+
+---
+
+## 📈 Experience
+
+### 🎓 Education
+- **Master of Computer Applications (MCA)** - 2024–2026
+- **Bachelor of Computer Applications (BCA)** - Completed
+- **Institution:** Ewing Christian College, Prayagraj
+
+### 💼 Professional Experience
+- **2+ Years** of hands-on mobile and web development
+- **Android Development** - Native app development with Kotlin
+- **Web Development** - React, TypeScript, modern web technologies
+- **Backend Integration** - Firebase, REST APIs, cloud services
+- **Open Source** - Contributing to community projects
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=firefox&logoColor=white)](https://sarthak-gupta-portfolio.netlify.app)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/plez_dont_tell_my_therapist)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/sarthak.gupta1111)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/aRbKqkvf)
+
+</div>
+
+---
+
+## 💡 My Philosophy
+
+> **"Code is poetry, and every app is a masterpiece waiting to be created."**
+
+I believe in:
+- ✅ **Clean Code** - Readable, maintainable, and well-documented
+- ✅ **User-Centric Design** - Creating intuitive and delightful experiences
+- ✅ **Continuous Improvement** - Always learning and evolving
+- ✅ **Open Collaboration** - Sharing knowledge and contributing to the community
+- ✅ **Problem Solving** - Turning challenges into opportunities
+
+---
+
+## 🎯 Goals for 2024-2025
+
+- [ ] 🚀 Launch 3+ production-ready Android apps
+- [ ] 📚 Contribute to 5+ open-source projects
+- [ ] 🏆 Reach 500+ GitHub followers
+- [ ] 📖 Write 10+ technical blog posts
+- [ ] 🎓 Master Jetpack Compose and advanced Kotlin
+- [ ] 🌟 Build a community around Android development
+- [ ] 💼 Collaborate with industry experts
+- [ ] 🎨 Improve UI/UX design skills
+
+---
+
+## 📚 Latest Blog Posts & Resources
+
+- 📱 Android Development Tips & Tricks
+- 🔥 Firebase Best Practices
+- 🎯 MVVM Architecture Guide
+- 🚀 Getting Started with Kotlin Coroutines
+- 🎨 Material Design in Android
+
+---
+
+## 🤝 How to Reach Me
+
+- 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
+- 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
+- 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
+- 🌐 **Portfolio:** [sarthak-gupta-portfolio.netlify.app](https://sarthak-gupta-portfolio.netlify.app)
+- 📱 **Instagram:** [@plez_dont_tell_my_therapist](https://www.instagram.com/plez_dont_tell_my_therapist)
+
+---
+
+## ⭐ Support My Work
+
+If you find my projects helpful or my content valuable, please consider:
+- ⭐ Starring my repositories
+- 🔗 Sharing my projects with others
+- 💬 Providing feedback and suggestions
+- 🤝 Contributing to my open-source projects
+- 📢 Following me on social media
+
+---
+
+<div align="center">
+
+### Let's Build Something Amazing Together! 🚀
+
+![Visitor Badge](https://visitcount.itsvg.in/api?id=SARTHAKHAPPY&icon=0&color=7F52FF)
+
+Made with ❤️ by [Sarthak Gupta](https://github.com/SARTHAKHAPPY)
+
+</div>
