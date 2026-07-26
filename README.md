@@ -1,4 +1,4 @@
-[Sarthak Gupta - GitHub Profile README (Final v4).md](https://github.com/user-attachments/files/30383254/Sarthak.Gupta.-.GitHub.Profile.README.Final.v4.md)
+[Sarthak Gupta - GitHub Profile README (Clean).md](https://github.com/user-attachments/files/30383286/Sarthak.Gupta.-.GitHub.Profile.README.Clean.md)
 # 👋 Hi there! I'm Sarthak Gupta
 
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
@@ -79,12 +79,6 @@ Through my academic projects and personal development, I've gained hands-on expe
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-### 🎨 Design & Creative
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-
-### 🐍 Other Languages
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 ---
 
