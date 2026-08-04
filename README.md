@@ -152,13 +152,9 @@ Through my academic projects and personal development, I've gained hands-on expe
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-7F52FF?style=for-the-badge&logo=netlify&logoColor=white)](https://sarthakhappy.netlify.app/)
-
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com)
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
-
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY)
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/plez_dont_tell_my_therapist)
 
 </div>
