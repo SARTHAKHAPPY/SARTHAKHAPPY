@@ -149,12 +149,15 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 ## 📞 How to Reach Me
 
-- 🌐 **Portfolio:** [sarthakhappy.netlify.app](https://sarthakhappy.netlify.app/)
-- 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
-- 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
-- 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
-- 📱 **Instagram:** [@plez_dont_tell_my_therapist](https://www.instagram.com/plez_dont_tell_my_therapist)
+<div align="center">
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-7F52FF?style=for-the-badge&logo=netlify&logoColor=white)](https://sarthakhappy.netlify.app/){:target="_blank"}
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com){:target="_blank"}
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa){:target="_blank"}
+[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY){:target="_blank"}
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/plez_dont_tell_my_therapist){:target="_blank"}
+
+</div>
 ---
 
 ## 💡 My Philosophy
