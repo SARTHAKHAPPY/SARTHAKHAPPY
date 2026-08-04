@@ -3,7 +3,7 @@
 > **Android Developer** | **Mobile App Enthusiast** | **Open Source Contributor**
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Specialist;Firebase+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=Android+Developer;Kotlin+Specialist;Firebase+Expert;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
 </div>
 
 ---
@@ -134,9 +134,9 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 ### 🎓 Education
 - **Master of Computer Applications (MCA)** - 2024–2026
-  - **Institution:** United Institute of Management, Prayagraj
+- **Institution:** United Institute of Management, Prayagraj
 - **Bachelor of Computer Applications (BCA)**
-  - **Institution:** Ewing Christian College, Prayagraj
+- **Institution:** Ewing Christian College, Prayagraj
 
 ### 💼 Development Experience
 - **Academic Projects** - Multiple Android and web applications
@@ -149,15 +149,12 @@ Through my academic projects and personal development, I've gained hands-on expe
 
 ## 📞 How to Reach Me
 
-<div align="center">
+- 🌐 **Portfolio:** [sarthakhappy.netlify.app](https://sarthakhappy.netlify.app/)
+- 💌 **Email:** [sarthak.gupta.happy1111@gmail.com](mailto:sarthak.gupta.happy1111@gmail.com)
+- 💼 **LinkedIn:** [Sarthak Gupta](https://www.linkedin.com/in/sarthak-gupta-0443002aa)
+- 🐙 **GitHub:** [@SARTHAKHAPPY](https://github.com/SARTHAKHAPPY)
+- 📱 **Instagram:** [@plez_dont_tell_my_therapist](https://www.instagram.com/plez_dont_tell_my_therapist)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-7F52FF?style=for-the-badge&logo=netlify&logoColor=white)](https://sarthakhappy.netlify.app/){:target="_blank"}
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sarthak.gupta.happy1111@gmail.com){:target="_blank"}
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sarthak-gupta-0443002aa){:target="_blank"}
-[![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SARTHAKHAPPY){:target="_blank"}
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/plez_dont_tell_my_therapist){:target="_blank"}
-
-</div>
 ---
 
 ## 💡 My Philosophy
@@ -193,4 +190,3 @@ If you find my projects helpful or my content valuable, please consider:
 - 🔗 Sharing my projects with others
 - 💬 Providing feedback and suggestions
 - 🤝 Contributing to my open-source projects
-- 📢 Following me on social media
