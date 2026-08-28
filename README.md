@@ -136,8 +136,9 @@ Jetpack Compose · Advanced Kotlin · React + TypeScript patterns · Cloud-based
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SARTHAKHAPPY&show_icons=true&theme=default&hide_border=true&count_private=true" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SARTHAKHAPPY&layout=compact&hide_border=true" />
+![Followers](https://img.shields.io/github/followers/SARTHAKHAPPY?label=Followers&style=for-the-badge&color=7F52FF)
+![Stars](https://img.shields.io/github/stars/SARTHAKHAPPY?label=Stars&style=for-the-badge&color=7F52FF)
+![Top Language](https://img.shields.io/github/languages/top/SARTHAKHAPPY/eDu-Solution-Assistant?label=Top%20Language&style=for-the-badge&color=7F52FF)
 
 </div>
 
